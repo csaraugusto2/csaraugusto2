@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csaraugusto2
-- 👀 I’m interested in learn an work in Developer
+- 👀 I’m interested in learning and working as a developer.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on news proyects
 - 📫 How to reach me: csaraugusto@gmail.com
